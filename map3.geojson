@@ -1,0 +1,374 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Placer_Claims",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7075603551, 48.4123063304 ],
+						[ -123.7075601711, 48.4164728514 ],
+						[ -123.7138106453, 48.4164721367 ],
+						[ -123.7138108449, 48.4123056279 ],
+						[ -123.7075603551, 48.4123063304 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"TENURE_NUMBER_ID" : 1055356,
+				"CLAIM_NAME" : "SOOKE 2",
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20171003225536",
+				"GOOD_TO_DATE" : "20211003",
+				"AREA_IN_HECTARES" : 21.4372,
+				"PROTECTED_IND" : "Y",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 262235,
+				"OWNER_NAME" : "BURGER, DIANE BERNADINE",
+				"PERCENT_OWNERSHIP" : 100,
+				"NUMBER_OF_OWNERS" : 1,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 214371.8862,
+				"GEOMETRY_Length" : 1852.0145042130753,
+				"GEOMETRY_Area" : 214371.88623188133
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7075605517, 48.4081397982 ],
+						[ -123.7075603551, 48.4123063304 ],
+						[ -123.7138108449, 48.4123056279 ],
+						[ -123.7138110302, 48.4081391073 ],
+						[ -123.7075605517, 48.4081397982 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"TENURE_NUMBER_ID" : 1060953,
+				"CLAIM_NAME" : "SOOKE IT TO ME",
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20180604135512",
+				"GOOD_TO_DATE" : "20220904",
+				"AREA_IN_HECTARES" : 21.439,
+				"PROTECTED_IND" : "N",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 262235,
+				"OWNER_NAME" : "BURGER, DIANE BERNADINE",
+				"PERCENT_OWNERSHIP" : 100,
+				"NUMBER_OF_OWNERS" : 1,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 214389.9045,
+				"GEOMETRY_Length" : 1852.092462890903,
+				"GEOMETRY_Area" : 214389.9045048083
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7513138957, 48.4081359412 ],
+						[ -123.7513136815, 48.4123024446 ],
+						[ -123.7575643046, 48.4123025524 ],
+						[ -123.7575645079, 48.4081360515 ],
+						[ -123.7513138957, 48.4081359412 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"TENURE_NUMBER_ID" : 1072684,
+				"CLAIM_NAME" : null,
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20191112192248",
+				"GOOD_TO_DATE" : "20201112",
+				"AREA_IN_HECTARES" : 21.4393,
+				"PROTECTED_IND" : "Y",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 283378,
+				"OWNER_NAME" : "SANDER, ROLF ERIK",
+				"PERCENT_OWNERSHIP" : 100,
+				"NUMBER_OF_OWNERS" : 1,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 214393.2577,
+				"GEOMETRY_Length" : 1852.1069671626324,
+				"GEOMETRY_Area" : 214393.2576562663
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7013106159, 48.3956405896 ],
+						[ -123.7013104407, 48.3998071053 ],
+						[ -123.7075609257, 48.3998067624 ],
+						[ -123.7075611174, 48.395640241 ],
+						[ -123.7013106159, 48.3956405896 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"TENURE_NUMBER_ID" : 1069236,
+				"CLAIM_NAME" : "SOOKE RIVER",
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20190620152729",
+				"GOOD_TO_DATE" : "20200620",
+				"AREA_IN_HECTARES" : 21.444200000000002,
+				"PROTECTED_IND" : "Y",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 244541,
+				"OWNER_NAME" : "MEUSE, DONALD JAMES",
+				"PERCENT_OWNERSHIP" : 100,
+				"NUMBER_OF_OWNERS" : 1,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 214441.8845,
+				"GEOMETRY_Length" : 1852.3173880615254,
+				"GEOMETRY_Area" : 214441.88446502865
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7075607448, 48.4289721095 ],
+						[ -123.7075609238, 48.4331385389 ],
+						[ -123.7138113168, 48.4331378831 ],
+						[ -123.7138111404, 48.4289714565 ],
+						[ -123.7075607448, 48.4289721095 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"TENURE_NUMBER_ID" : 983023,
+				"CLAIM_NAME" : "SHAYEANNE1",
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20120430102701",
+				"GOOD_TO_DATE" : "20230430",
+				"AREA_IN_HECTARES" : 21.4295,
+				"PROTECTED_IND" : "N",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 285087,
+				"OWNER_NAME" : "RIPLEY, ESTATE OF DREW LEONARD",
+				"PERCENT_OWNERSHIP" : 100,
+				"NUMBER_OF_OWNERS" : 1,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 214294.9644,
+				"GEOMETRY_Length" : 1851.6817114409894,
+				"GEOMETRY_Area" : 214294.9644185434
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7200613958, 48.4248046768 ],
+						[ -123.7200612608, 48.4206382313 ],
+						[ -123.7200611114, 48.4164717743 ],
+						[ -123.7138106453, 48.4164721367 ],
+						[ -123.7075601711, 48.4164728514 ],
+						[ -123.7075603548, 48.4206392699 ],
+						[ -123.7138108116, 48.420638579 ],
+						[ -123.713810977, 48.4248050099 ],
+						[ -123.7138111404, 48.4289714565 ],
+						[ -123.7200615566, 48.4289711205 ],
+						[ -123.7200613958, 48.4248046768 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"TENURE_NUMBER_ID" : 850240,
+				"CLAIM_NAME" : "EASY PICKINS",
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20110331110457",
+				"GOOD_TO_DATE" : "20230831",
+				"AREA_IN_HECTARES" : 85.7346,
+				"PROTECTED_IND" : "N",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 248322,
+				"OWNER_NAME" : "WAGNER, KELLY",
+				"PERCENT_OWNERSHIP" : 50,
+				"NUMBER_OF_OWNERS" : 2,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 857345.5334,
+				"GEOMETRY_Length" : 4628.405582893338,
+				"GEOMETRY_Area" : 857345.5333973789
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7075605372, 48.4248056861 ],
+						[ -123.7075607448, 48.4289721095 ],
+						[ -123.7138111404, 48.4289714565 ],
+						[ -123.713810977, 48.4248050099 ],
+						[ -123.7075605372, 48.4248056861 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"TENURE_NUMBER_ID" : 1068362,
+				"CLAIM_NAME" : "PIONEER CLAIM",
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20190507091352",
+				"GOOD_TO_DATE" : "20200507",
+				"AREA_IN_HECTARES" : 21.4313,
+				"PROTECTED_IND" : "Y",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 284294,
+				"OWNER_NAME" : "LAROUCHE, PAUL LANCE",
+				"PERCENT_OWNERSHIP" : 100,
+				"NUMBER_OF_OWNERS" : 1,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 214313.4895,
+				"GEOMETRY_Length" : 1851.7618641433355,
+				"GEOMETRY_Area" : 214313.48952913715
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7138111404, 48.4289714565 ],
+						[ -123.7138113168, 48.4331378831 ],
+						[ -123.7200617017, 48.4331375795 ],
+						[ -123.7200615566, 48.4289711205 ],
+						[ -123.7138111404, 48.4289714565 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"TENURE_NUMBER_ID" : 1050324,
+				"CLAIM_NAME" : "KNOW PANNING",
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20170225101033",
+				"GOOD_TO_DATE" : "20230225",
+				"AREA_IN_HECTARES" : 21.4296,
+				"PROTECTED_IND" : "N",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 229961,
+				"OWNER_NAME" : "BENSON, RICHARD MICHAEL",
+				"PERCENT_OWNERSHIP" : 50,
+				"NUMBER_OF_OWNERS" : 2,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 214295.9443,
+				"GEOMETRY_Length" : 1851.6859354550509,
+				"GEOMETRY_Area" : 214295.94426873355
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ -123.7075607327, 48.4039732813 ],
+						[ -123.7075609257, 48.3998067624 ],
+						[ -123.7013104407, 48.3998071053 ],
+						[ -123.7013102498, 48.4039736362 ],
+						[ -123.701310058, 48.4081401558 ],
+						[ -123.7075605517, 48.4081397982 ],
+						[ -123.7075607327, 48.4039732813 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"TENURE_NUMBER_ID" : 1074096,
+				"CLAIM_NAME" : "BIG NUGZ",
+				"TENURE_TYPE_CODE" : "P",
+				"TENURE_TYPE_DESCRIPTION" : "Placer",
+				"TENURE_SUB_TYPE_CODE" : "C",
+				"TENURE_SUB_TYPE_DESCRIPTION" : "CLAIM",
+				"TITLE_TYPE_CODE" : "PCX",
+				"TITLE_TYPE_DESCRIPTION" : "Placer Cell Title Submission",
+				"ISSUE_DATE" : "20200123105746",
+				"GOOD_TO_DATE" : "20200714",
+				"AREA_IN_HECTARES" : 42.8832,
+				"PROTECTED_IND" : "Y",
+				"TAG_NUMBER" : null,
+				"CLIENT_NUMBER_ID" : 286775,
+				"OWNER_NAME" : "BOWMAN, MATTHEW KENNETH",
+				"PERCENT_OWNERSHIP" : 100,
+				"NUMBER_OF_OWNERS" : 1,
+				"TERMINATION_DATE" : null,
+				"TERMINATION_TYPE_DESCRIPTION" : null,
+				"FEATURE_AREA_SQM" : 428831.5261,
+				"GEOMETRY_Length" : 2776.8305082647175,
+				"GEOMETRY_Area" : 428831.5260915451
+			}
+		}
+	]
+}
