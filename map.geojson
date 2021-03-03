@@ -3,7 +3,7 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties":{"STATE":"AMK","NAME":"AMlaska"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -42,7 +42,7 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties":{"STATE":"AK","NAME":"Alaska"},
       "geometry": {
         "type": "Polygon",
         "coordinates": [
